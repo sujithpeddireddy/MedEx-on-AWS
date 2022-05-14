@@ -20,3 +20,5 @@ This project is to be contributed to by the following team members,
 - G V Datta Adithya
 - Shanmukh Srinivas
 - Hariprasad K K
+- N. Sai Vijay
+- M Sai Uday Kiran Kumar
